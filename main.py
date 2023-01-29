@@ -19,7 +19,6 @@ def get_title(soup):
     # print(type(title_value))
     # print(type(title_string))
     # print()
-    # printjhjs jshdjs
 
     except AttributeError:
         title_string = ""
